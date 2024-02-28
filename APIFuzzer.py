@@ -2,7 +2,6 @@ import requests
 import sys
 
 def fuzzer():
-    #host_ip = input("Please input an IP to fuzz:")
 
     for word in sys.stdin:
         res = requests.get(url=f"http://10.10.11.161/{word}")
