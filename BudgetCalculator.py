@@ -20,7 +20,7 @@ def main():
 		total_pay -= 350
 
 	else:
-		total_pay -= 250
+	total_pay -= 250
 	print(f"After setting aside money for rent: {total_pay}")
 
 if __name__ == '__main__':
