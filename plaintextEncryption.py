@@ -1,11 +1,9 @@
 '''
 =========================================================================
-|pa01 - encrypting a plaintext file using the Hill Cipher
+|encrypting a plaintext file using the Hill Cipher
 |
 |   Author: Luis Cabral
 |   Language: Python 3
-|   To compile: not necessary
-|   To execute: python3 PA1.py
 |   Note:
 |       All input files are simple 8 bit ASCII input
 | 
